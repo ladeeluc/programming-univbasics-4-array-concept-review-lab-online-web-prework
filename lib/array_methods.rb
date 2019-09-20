@@ -4,6 +4,7 @@ end
 
 def find_max_value(array){
   array.length
+  puts array
 }
 end
 
