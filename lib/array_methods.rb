@@ -9,7 +9,6 @@ while counter < array.length do
   puts array[counter]
   counter += 1
 end
-end
 
 def find_min_value(array)
   # Add your solution here
