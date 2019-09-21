@@ -5,8 +5,8 @@ end
 def find_max_value(array)
 counter = 0
 
-while counter < array length do
-  puts array[counter] > array.max
+while counter < array.length do
+  puts array[counter]
   counter += 1
 end
 find_max_value
