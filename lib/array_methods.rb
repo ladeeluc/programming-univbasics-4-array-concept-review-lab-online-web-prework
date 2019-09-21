@@ -27,4 +27,3 @@ def find_min_value(array)
   end
   max_value
   end
-end
