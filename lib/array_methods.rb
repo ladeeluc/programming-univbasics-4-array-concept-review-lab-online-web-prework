@@ -4,7 +4,9 @@ end
 
 def find_max_value(array)
 counter = 0
-array.length(array)
+length = array.length
+
+l
 end
 
 def find_min_value(array)
