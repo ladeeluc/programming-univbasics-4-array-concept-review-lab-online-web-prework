@@ -11,7 +11,8 @@ while counter < array.length do
     max_value = array[counter]
   counter += 1
 end
-
+end
+max_value
 end
 
 def find_min_value(array)
